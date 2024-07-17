@@ -1,6 +1,5 @@
 > You thought there was something of intereset in this `README.md` but IT WAS ME, DIO!
 
-`
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⠖⠂⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⡟⠁⠀⠀⢀⠄⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⢀⣴⣿⡟⠀⠀⣠⠖⠁⠀⣀⣤⠆
@@ -20,7 +19,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡥⠿⢿⠿⠟⠋⣁⠞⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠒⠒⠒⠒⠊⠁⠀⣠⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠤⠤⠤⠴⠞⠃⠀⠀⠀⠀⠀
-`
 
 <!---
 tomasealegre/tomasealegre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
