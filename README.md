@@ -1,4 +1,4 @@
-> You thought there was something of intereset in this `README.md` but IT WAS ME, DIO!
+You thought there was something of intereset in this `README.md` but IT WAS ME, DIO!
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢿⣿⣿⣿⣿⣿⣧⣿⠈⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣦⡙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⣼⣿⣿⣿⣿⣿⠛⣿⡰⣿⣿⣿⣿⡟⠟⢹⣿⣿⠙⢿⣿⣌⢿⣿⣿⣿⣿⣮⡻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
